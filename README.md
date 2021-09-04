@@ -1,2 +1,3 @@
 # PythonProjects
-A collection of python projects I done so far
+This repository contains python projects which I have done so far while learning and improving my knowledge in python.
+
